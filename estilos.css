@@ -1,0 +1,46 @@
+body{
+    background-color: gray;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+}
+
+p{
+    color:darkblue;
+    /*font-size: 25px;*/
+}
+
+div h2{
+    color:darkred;
+}
+
+#parrafo-nombre{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.parrafo{
+    color:gold;
+    font-family: italic;
+}
+
+a, img{
+    display: block;
+}
+
+a{
+    margin: 50px 25px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: chartreuse;
+}
+
+img{
+    width: 70%;
+    margin: auto;
+}
